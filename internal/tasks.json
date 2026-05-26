@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "description": "belajar redis",
+    "status": "in-progress",
+    "created_at": "2026-05-25T13:38:17.7567794+07:00",
+    "updated_at": "2026-05-26T11:16:08.9582984+07:00"
+  },
+  {
+    "id": 2,
+    "description": "belajar go",
+    "status": "in-progress",
+    "created_at": "2026-05-25T13:38:32.5242104+07:00",
+    "updated_at": "2026-05-26T11:14:24.1318253+07:00"
+  },
+  {
+    "id": 3,
+    "description": "belajar docker",
+    "status": "in-progress",
+    "created_at": "2026-05-26T11:12:25.9859823+07:00",
+    "updated_at": "2026-05-26T11:14:34.7400397+07:00"
+  },
+  {
+    "id": 4,
+    "description": "belajar node js",
+    "status": "todo",
+    "created_at": "2026-05-26T11:13:02.5146832+07:00",
+    "updated_at": "2026-05-26T11:15:51.469015+07:00"
+  }
+]
