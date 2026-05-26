@@ -1,6 +1,7 @@
 # Task Tracker CLI
 
 A simple Task Tracker application built with Go that runs in the terminal. This project allows users to manage tasks by adding, updating, deleting, and tracking their progress. Tasks are stored locally in a JSON file without using any external libraries or frameworks.
+This project mainly is for submission project in roadmap.sh (https://roadmap.sh/projects/task-tracker)
 
 ## Features
 
