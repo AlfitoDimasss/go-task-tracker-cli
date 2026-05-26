@@ -63,7 +63,7 @@ tasks.json
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/AlfitoDimasss/go-task-tracker-cli.git
 cd go-task-tracker-cli
 ```
 
